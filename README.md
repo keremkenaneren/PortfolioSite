@@ -1,4 +1,4 @@
-site url : ````https://oyindamolab.netlify.app/#contact````
+site url : ```` https://oyindamolab.netlify.app ````
 
 # React + Vite
 
